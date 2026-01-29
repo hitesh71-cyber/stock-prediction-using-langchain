@@ -1,9 +1,9 @@
-streamlit>=1.30
-yfinance>=0.2.36
-numpy>=1.24
-pandas>=2.0
-plotly>=5.18
-xgboost>=1.7
+streamlit
+yfinance
+numpy
+pandas
+plotly
+xgboost
 joblib
 langchain
 langchain-google-genai
