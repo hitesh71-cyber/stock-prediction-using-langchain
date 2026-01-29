@@ -8,12 +8,3 @@ joblib
 langchain
 langchain-google-genai
 python-dotenv
-requests
-
-# LangChain & Gemini
-langchain
-langchain-google-genai
-google-generativeai==0.7.0
-
-# Pydantic (v1 because you're using pydantic.v1)
-pydantic==1.10.13
